@@ -4,10 +4,8 @@
 
 I'm a data enthusiast passionate about using data to solve real-world problems and improve lives. I'm particularly interested in data science, DevOps, backend development, and IT networking. In my free time, I volunteer with the Red Cross to serve humanity.
 
-- 🔭🧠I'm currently learning computer science.
-- 🌱 I'm learning [mention a skill or technology you're currently learning].
-- 👯🤝I'm open to collaborating on data analysis and data science.
-- 📫 How to reach me: [your email or social media links].
+- 🔭  🧠I'm currently learning computer science.
+- 👯  🤝I'm open to collaborating on data analysis and data science.
 
 ## Skills
 
